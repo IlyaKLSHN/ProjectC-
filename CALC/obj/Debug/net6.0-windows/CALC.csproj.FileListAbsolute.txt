@@ -1,0 +1,17 @@
+C:\Users\IlyaK\source\repos\CALC\bin\Debug\net6.0-windows\CALC.exe
+C:\Users\IlyaK\source\repos\CALC\bin\Debug\net6.0-windows\CALC.deps.json
+C:\Users\IlyaK\source\repos\CALC\bin\Debug\net6.0-windows\CALC.runtimeconfig.json
+C:\Users\IlyaK\source\repos\CALC\bin\Debug\net6.0-windows\CALC.dll
+C:\Users\IlyaK\source\repos\CALC\bin\Debug\net6.0-windows\CALC.pdb
+C:\Users\IlyaK\source\repos\CALC\obj\Debug\net6.0-windows\CALC.csproj.AssemblyReference.cache
+C:\Users\IlyaK\source\repos\CALC\obj\Debug\net6.0-windows\CALC.Calculate.resources
+C:\Users\IlyaK\source\repos\CALC\obj\Debug\net6.0-windows\CALC.csproj.GenerateResource.cache
+C:\Users\IlyaK\source\repos\CALC\obj\Debug\net6.0-windows\CALC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IlyaK\source\repos\CALC\obj\Debug\net6.0-windows\CALC.AssemblyInfoInputs.cache
+C:\Users\IlyaK\source\repos\CALC\obj\Debug\net6.0-windows\CALC.AssemblyInfo.cs
+C:\Users\IlyaK\source\repos\CALC\obj\Debug\net6.0-windows\CALC.csproj.CoreCompileInputs.cache
+C:\Users\IlyaK\source\repos\CALC\obj\Debug\net6.0-windows\CALC.dll
+C:\Users\IlyaK\source\repos\CALC\obj\Debug\net6.0-windows\refint\CALC.dll
+C:\Users\IlyaK\source\repos\CALC\obj\Debug\net6.0-windows\CALC.pdb
+C:\Users\IlyaK\source\repos\CALC\obj\Debug\net6.0-windows\CALC.genruntimeconfig.cache
+C:\Users\IlyaK\source\repos\CALC\obj\Debug\net6.0-windows\ref\CALC.dll

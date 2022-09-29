@@ -1,0 +1,17 @@
+C:\Users\IlyaK\source\repos\BMI\bin\Debug\net6.0-windows\BMI.exe
+C:\Users\IlyaK\source\repos\BMI\bin\Debug\net6.0-windows\BMI.deps.json
+C:\Users\IlyaK\source\repos\BMI\bin\Debug\net6.0-windows\BMI.runtimeconfig.json
+C:\Users\IlyaK\source\repos\BMI\bin\Debug\net6.0-windows\BMI.dll
+C:\Users\IlyaK\source\repos\BMI\bin\Debug\net6.0-windows\BMI.pdb
+C:\Users\IlyaK\source\repos\BMI\obj\Debug\net6.0-windows\BMI.csproj.AssemblyReference.cache
+C:\Users\IlyaK\source\repos\BMI\obj\Debug\net6.0-windows\BMI.Form1.resources
+C:\Users\IlyaK\source\repos\BMI\obj\Debug\net6.0-windows\BMI.csproj.GenerateResource.cache
+C:\Users\IlyaK\source\repos\BMI\obj\Debug\net6.0-windows\BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IlyaK\source\repos\BMI\obj\Debug\net6.0-windows\BMI.AssemblyInfoInputs.cache
+C:\Users\IlyaK\source\repos\BMI\obj\Debug\net6.0-windows\BMI.AssemblyInfo.cs
+C:\Users\IlyaK\source\repos\BMI\obj\Debug\net6.0-windows\BMI.csproj.CoreCompileInputs.cache
+C:\Users\IlyaK\source\repos\BMI\obj\Debug\net6.0-windows\BMI.dll
+C:\Users\IlyaK\source\repos\BMI\obj\Debug\net6.0-windows\refint\BMI.dll
+C:\Users\IlyaK\source\repos\BMI\obj\Debug\net6.0-windows\BMI.pdb
+C:\Users\IlyaK\source\repos\BMI\obj\Debug\net6.0-windows\BMI.genruntimeconfig.cache
+C:\Users\IlyaK\source\repos\BMI\obj\Debug\net6.0-windows\ref\BMI.dll

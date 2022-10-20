@@ -1,0 +1,17 @@
+C:\Users\IlyaK\source\repos\RPS\bin\Debug\net6.0-windows\RPS.exe
+C:\Users\IlyaK\source\repos\RPS\bin\Debug\net6.0-windows\RPS.deps.json
+C:\Users\IlyaK\source\repos\RPS\bin\Debug\net6.0-windows\RPS.runtimeconfig.json
+C:\Users\IlyaK\source\repos\RPS\bin\Debug\net6.0-windows\RPS.dll
+C:\Users\IlyaK\source\repos\RPS\bin\Debug\net6.0-windows\RPS.pdb
+C:\Users\IlyaK\source\repos\RPS\obj\Debug\net6.0-windows\RPS.csproj.AssemblyReference.cache
+C:\Users\IlyaK\source\repos\RPS\obj\Debug\net6.0-windows\RPS.Form1.resources
+C:\Users\IlyaK\source\repos\RPS\obj\Debug\net6.0-windows\RPS.csproj.GenerateResource.cache
+C:\Users\IlyaK\source\repos\RPS\obj\Debug\net6.0-windows\RPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IlyaK\source\repos\RPS\obj\Debug\net6.0-windows\RPS.AssemblyInfoInputs.cache
+C:\Users\IlyaK\source\repos\RPS\obj\Debug\net6.0-windows\RPS.AssemblyInfo.cs
+C:\Users\IlyaK\source\repos\RPS\obj\Debug\net6.0-windows\RPS.csproj.CoreCompileInputs.cache
+C:\Users\IlyaK\source\repos\RPS\obj\Debug\net6.0-windows\RPS.dll
+C:\Users\IlyaK\source\repos\RPS\obj\Debug\net6.0-windows\refint\RPS.dll
+C:\Users\IlyaK\source\repos\RPS\obj\Debug\net6.0-windows\RPS.pdb
+C:\Users\IlyaK\source\repos\RPS\obj\Debug\net6.0-windows\RPS.genruntimeconfig.cache
+C:\Users\IlyaK\source\repos\RPS\obj\Debug\net6.0-windows\ref\RPS.dll

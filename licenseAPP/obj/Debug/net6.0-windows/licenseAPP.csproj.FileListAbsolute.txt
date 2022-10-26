@@ -1,0 +1,17 @@
+C:\Users\IlyaK\source\repos\licenseAPP\bin\Debug\net6.0-windows\licenseAPP.exe
+C:\Users\IlyaK\source\repos\licenseAPP\bin\Debug\net6.0-windows\licenseAPP.deps.json
+C:\Users\IlyaK\source\repos\licenseAPP\bin\Debug\net6.0-windows\licenseAPP.runtimeconfig.json
+C:\Users\IlyaK\source\repos\licenseAPP\bin\Debug\net6.0-windows\licenseAPP.dll
+C:\Users\IlyaK\source\repos\licenseAPP\bin\Debug\net6.0-windows\licenseAPP.pdb
+C:\Users\IlyaK\source\repos\licenseAPP\obj\Debug\net6.0-windows\licenseAPP.csproj.AssemblyReference.cache
+C:\Users\IlyaK\source\repos\licenseAPP\obj\Debug\net6.0-windows\licenseAPP.Form1.resources
+C:\Users\IlyaK\source\repos\licenseAPP\obj\Debug\net6.0-windows\licenseAPP.csproj.GenerateResource.cache
+C:\Users\IlyaK\source\repos\licenseAPP\obj\Debug\net6.0-windows\licenseAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IlyaK\source\repos\licenseAPP\obj\Debug\net6.0-windows\licenseAPP.AssemblyInfoInputs.cache
+C:\Users\IlyaK\source\repos\licenseAPP\obj\Debug\net6.0-windows\licenseAPP.AssemblyInfo.cs
+C:\Users\IlyaK\source\repos\licenseAPP\obj\Debug\net6.0-windows\licenseAPP.csproj.CoreCompileInputs.cache
+C:\Users\IlyaK\source\repos\licenseAPP\obj\Debug\net6.0-windows\licenseAPP.dll
+C:\Users\IlyaK\source\repos\licenseAPP\obj\Debug\net6.0-windows\refint\licenseAPP.dll
+C:\Users\IlyaK\source\repos\licenseAPP\obj\Debug\net6.0-windows\licenseAPP.pdb
+C:\Users\IlyaK\source\repos\licenseAPP\obj\Debug\net6.0-windows\licenseAPP.genruntimeconfig.cache
+C:\Users\IlyaK\source\repos\licenseAPP\obj\Debug\net6.0-windows\ref\licenseAPP.dll

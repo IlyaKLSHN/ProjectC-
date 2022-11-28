@@ -1,0 +1,34 @@
+C:\Users\tomps\source\repos\Estonian Names\Estonian Names\bin\Debug\net6.0-windows\Estonian Names.exe
+C:\Users\tomps\source\repos\Estonian Names\Estonian Names\bin\Debug\net6.0-windows\Estonian Names.deps.json
+C:\Users\tomps\source\repos\Estonian Names\Estonian Names\bin\Debug\net6.0-windows\Estonian Names.runtimeconfig.json
+C:\Users\tomps\source\repos\Estonian Names\Estonian Names\bin\Debug\net6.0-windows\Estonian Names.dll
+C:\Users\tomps\source\repos\Estonian Names\Estonian Names\bin\Debug\net6.0-windows\Estonian Names.pdb
+C:\Users\tomps\source\repos\Estonian Names\Estonian Names\obj\Debug\net6.0-windows\Estonian Names.csproj.AssemblyReference.cache
+C:\Users\tomps\source\repos\Estonian Names\Estonian Names\obj\Debug\net6.0-windows\Estonian_Names.Form1.resources
+C:\Users\tomps\source\repos\Estonian Names\Estonian Names\obj\Debug\net6.0-windows\Estonian Names.csproj.GenerateResource.cache
+C:\Users\tomps\source\repos\Estonian Names\Estonian Names\obj\Debug\net6.0-windows\Estonian Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomps\source\repos\Estonian Names\Estonian Names\obj\Debug\net6.0-windows\Estonian Names.AssemblyInfoInputs.cache
+C:\Users\tomps\source\repos\Estonian Names\Estonian Names\obj\Debug\net6.0-windows\Estonian Names.AssemblyInfo.cs
+C:\Users\tomps\source\repos\Estonian Names\Estonian Names\obj\Debug\net6.0-windows\Estonian Names.csproj.CoreCompileInputs.cache
+C:\Users\tomps\source\repos\Estonian Names\Estonian Names\obj\Debug\net6.0-windows\Estonian Names.dll
+C:\Users\tomps\source\repos\Estonian Names\Estonian Names\obj\Debug\net6.0-windows\refint\Estonian Names.dll
+C:\Users\tomps\source\repos\Estonian Names\Estonian Names\obj\Debug\net6.0-windows\Estonian Names.pdb
+C:\Users\tomps\source\repos\Estonian Names\Estonian Names\obj\Debug\net6.0-windows\Estonian Names.genruntimeconfig.cache
+C:\Users\tomps\source\repos\Estonian Names\Estonian Names\obj\Debug\net6.0-windows\ref\Estonian Names.dll
+C:\Users\IlyaK\source\repos\Names\Estonian Names\bin\Debug\net6.0-windows\Estonian Names.exe
+C:\Users\IlyaK\source\repos\Names\Estonian Names\bin\Debug\net6.0-windows\Estonian Names.deps.json
+C:\Users\IlyaK\source\repos\Names\Estonian Names\bin\Debug\net6.0-windows\Estonian Names.runtimeconfig.json
+C:\Users\IlyaK\source\repos\Names\Estonian Names\bin\Debug\net6.0-windows\Estonian Names.dll
+C:\Users\IlyaK\source\repos\Names\Estonian Names\bin\Debug\net6.0-windows\Estonian Names.pdb
+C:\Users\IlyaK\source\repos\Names\Estonian Names\obj\Debug\net6.0-windows\Estonian Names.csproj.AssemblyReference.cache
+C:\Users\IlyaK\source\repos\Names\Estonian Names\obj\Debug\net6.0-windows\Estonian_Names.Form1.resources
+C:\Users\IlyaK\source\repos\Names\Estonian Names\obj\Debug\net6.0-windows\Estonian Names.csproj.GenerateResource.cache
+C:\Users\IlyaK\source\repos\Names\Estonian Names\obj\Debug\net6.0-windows\Estonian Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IlyaK\source\repos\Names\Estonian Names\obj\Debug\net6.0-windows\Estonian Names.AssemblyInfoInputs.cache
+C:\Users\IlyaK\source\repos\Names\Estonian Names\obj\Debug\net6.0-windows\Estonian Names.AssemblyInfo.cs
+C:\Users\IlyaK\source\repos\Names\Estonian Names\obj\Debug\net6.0-windows\Estonian Names.csproj.CoreCompileInputs.cache
+C:\Users\IlyaK\source\repos\Names\Estonian Names\obj\Debug\net6.0-windows\Estonian Names.dll
+C:\Users\IlyaK\source\repos\Names\Estonian Names\obj\Debug\net6.0-windows\refint\Estonian Names.dll
+C:\Users\IlyaK\source\repos\Names\Estonian Names\obj\Debug\net6.0-windows\Estonian Names.pdb
+C:\Users\IlyaK\source\repos\Names\Estonian Names\obj\Debug\net6.0-windows\Estonian Names.genruntimeconfig.cache
+C:\Users\IlyaK\source\repos\Names\Estonian Names\obj\Debug\net6.0-windows\ref\Estonian Names.dll

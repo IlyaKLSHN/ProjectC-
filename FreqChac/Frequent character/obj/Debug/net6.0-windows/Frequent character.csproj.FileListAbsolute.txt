@@ -1,0 +1,34 @@
+C:\Users\tomps\source\repos\Frequent character\Frequent character\bin\Debug\net6.0-windows\Frequent character.exe
+C:\Users\tomps\source\repos\Frequent character\Frequent character\bin\Debug\net6.0-windows\Frequent character.deps.json
+C:\Users\tomps\source\repos\Frequent character\Frequent character\bin\Debug\net6.0-windows\Frequent character.runtimeconfig.json
+C:\Users\tomps\source\repos\Frequent character\Frequent character\bin\Debug\net6.0-windows\Frequent character.dll
+C:\Users\tomps\source\repos\Frequent character\Frequent character\bin\Debug\net6.0-windows\Frequent character.pdb
+C:\Users\tomps\source\repos\Frequent character\Frequent character\obj\Debug\net6.0-windows\Frequent character.csproj.AssemblyReference.cache
+C:\Users\tomps\source\repos\Frequent character\Frequent character\obj\Debug\net6.0-windows\Frequent_character.Form1.resources
+C:\Users\tomps\source\repos\Frequent character\Frequent character\obj\Debug\net6.0-windows\Frequent character.csproj.GenerateResource.cache
+C:\Users\tomps\source\repos\Frequent character\Frequent character\obj\Debug\net6.0-windows\Frequent character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomps\source\repos\Frequent character\Frequent character\obj\Debug\net6.0-windows\Frequent character.AssemblyInfoInputs.cache
+C:\Users\tomps\source\repos\Frequent character\Frequent character\obj\Debug\net6.0-windows\Frequent character.AssemblyInfo.cs
+C:\Users\tomps\source\repos\Frequent character\Frequent character\obj\Debug\net6.0-windows\Frequent character.csproj.CoreCompileInputs.cache
+C:\Users\tomps\source\repos\Frequent character\Frequent character\obj\Debug\net6.0-windows\Frequent character.dll
+C:\Users\tomps\source\repos\Frequent character\Frequent character\obj\Debug\net6.0-windows\refint\Frequent character.dll
+C:\Users\tomps\source\repos\Frequent character\Frequent character\obj\Debug\net6.0-windows\Frequent character.pdb
+C:\Users\tomps\source\repos\Frequent character\Frequent character\obj\Debug\net6.0-windows\Frequent character.genruntimeconfig.cache
+C:\Users\tomps\source\repos\Frequent character\Frequent character\obj\Debug\net6.0-windows\ref\Frequent character.dll
+C:\Users\IlyaK\source\repos\FreqChac\Frequent character\bin\Debug\net6.0-windows\Frequent character.exe
+C:\Users\IlyaK\source\repos\FreqChac\Frequent character\bin\Debug\net6.0-windows\Frequent character.deps.json
+C:\Users\IlyaK\source\repos\FreqChac\Frequent character\bin\Debug\net6.0-windows\Frequent character.runtimeconfig.json
+C:\Users\IlyaK\source\repos\FreqChac\Frequent character\bin\Debug\net6.0-windows\Frequent character.dll
+C:\Users\IlyaK\source\repos\FreqChac\Frequent character\bin\Debug\net6.0-windows\Frequent character.pdb
+C:\Users\IlyaK\source\repos\FreqChac\Frequent character\obj\Debug\net6.0-windows\Frequent character.csproj.AssemblyReference.cache
+C:\Users\IlyaK\source\repos\FreqChac\Frequent character\obj\Debug\net6.0-windows\Frequent_character.Form1.resources
+C:\Users\IlyaK\source\repos\FreqChac\Frequent character\obj\Debug\net6.0-windows\Frequent character.csproj.GenerateResource.cache
+C:\Users\IlyaK\source\repos\FreqChac\Frequent character\obj\Debug\net6.0-windows\Frequent character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IlyaK\source\repos\FreqChac\Frequent character\obj\Debug\net6.0-windows\Frequent character.AssemblyInfoInputs.cache
+C:\Users\IlyaK\source\repos\FreqChac\Frequent character\obj\Debug\net6.0-windows\Frequent character.AssemblyInfo.cs
+C:\Users\IlyaK\source\repos\FreqChac\Frequent character\obj\Debug\net6.0-windows\Frequent character.csproj.CoreCompileInputs.cache
+C:\Users\IlyaK\source\repos\FreqChac\Frequent character\obj\Debug\net6.0-windows\Frequent character.dll
+C:\Users\IlyaK\source\repos\FreqChac\Frequent character\obj\Debug\net6.0-windows\refint\Frequent character.dll
+C:\Users\IlyaK\source\repos\FreqChac\Frequent character\obj\Debug\net6.0-windows\Frequent character.pdb
+C:\Users\IlyaK\source\repos\FreqChac\Frequent character\obj\Debug\net6.0-windows\Frequent character.genruntimeconfig.cache
+C:\Users\IlyaK\source\repos\FreqChac\Frequent character\obj\Debug\net6.0-windows\ref\Frequent character.dll

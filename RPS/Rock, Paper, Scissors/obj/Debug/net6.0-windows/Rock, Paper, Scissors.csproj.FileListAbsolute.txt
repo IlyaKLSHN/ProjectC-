@@ -1,0 +1,36 @@
+C:\Users\tomps\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\bin\Debug\net6.0-windows\Rock, Paper, Scissors.exe
+C:\Users\tomps\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\bin\Debug\net6.0-windows\Rock, Paper, Scissors.deps.json
+C:\Users\tomps\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\bin\Debug\net6.0-windows\Rock, Paper, Scissors.runtimeconfig.json
+C:\Users\tomps\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\bin\Debug\net6.0-windows\Rock, Paper, Scissors.dll
+C:\Users\tomps\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\bin\Debug\net6.0-windows\Rock, Paper, Scissors.pdb
+C:\Users\tomps\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock, Paper, Scissors.csproj.AssemblyReference.cache
+C:\Users\tomps\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock__Paper__Scissors.Form1.resources
+C:\Users\tomps\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock__Paper__Scissors.Properties.Resources.resources
+C:\Users\tomps\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock, Paper, Scissors.csproj.GenerateResource.cache
+C:\Users\tomps\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock, Paper, Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomps\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock, Paper, Scissors.AssemblyInfoInputs.cache
+C:\Users\tomps\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock, Paper, Scissors.AssemblyInfo.cs
+C:\Users\tomps\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock, Paper, Scissors.csproj.CoreCompileInputs.cache
+C:\Users\tomps\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock, Paper, Scissors.dll
+C:\Users\tomps\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\refint\Rock, Paper, Scissors.dll
+C:\Users\tomps\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock, Paper, Scissors.pdb
+C:\Users\tomps\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock, Paper, Scissors.genruntimeconfig.cache
+C:\Users\tomps\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\ref\Rock, Paper, Scissors.dll
+C:\Users\IlyaK\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\bin\Debug\net6.0-windows\Rock, Paper, Scissors.exe
+C:\Users\IlyaK\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\bin\Debug\net6.0-windows\Rock, Paper, Scissors.deps.json
+C:\Users\IlyaK\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\bin\Debug\net6.0-windows\Rock, Paper, Scissors.runtimeconfig.json
+C:\Users\IlyaK\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\bin\Debug\net6.0-windows\Rock, Paper, Scissors.dll
+C:\Users\IlyaK\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\bin\Debug\net6.0-windows\Rock, Paper, Scissors.pdb
+C:\Users\IlyaK\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock, Paper, Scissors.csproj.AssemblyReference.cache
+C:\Users\IlyaK\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock__Paper__Scissors.Form1.resources
+C:\Users\IlyaK\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock__Paper__Scissors.Properties.Resources.resources
+C:\Users\IlyaK\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock, Paper, Scissors.csproj.GenerateResource.cache
+C:\Users\IlyaK\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock, Paper, Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IlyaK\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock, Paper, Scissors.AssemblyInfoInputs.cache
+C:\Users\IlyaK\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock, Paper, Scissors.AssemblyInfo.cs
+C:\Users\IlyaK\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock, Paper, Scissors.csproj.CoreCompileInputs.cache
+C:\Users\IlyaK\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock, Paper, Scissors.dll
+C:\Users\IlyaK\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\refint\Rock, Paper, Scissors.dll
+C:\Users\IlyaK\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock, Paper, Scissors.pdb
+C:\Users\IlyaK\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\Rock, Paper, Scissors.genruntimeconfig.cache
+C:\Users\IlyaK\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\obj\Debug\net6.0-windows\ref\Rock, Paper, Scissors.dll

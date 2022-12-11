@@ -1,0 +1,11 @@
+C:\Users\IlyaK\Desktop\IronMan-FBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\IlyaK\Desktop\IronMan-FBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\IlyaK\Desktop\IronMan-FBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\IlyaK\Desktop\IronMan-FBird\FlappyBird\obj\Debug\IronMan.csproj.AssemblyReference.cache
+C:\Users\IlyaK\Desktop\IronMan-FBird\FlappyBird\obj\Debug\IronMan.csproj.SuggestedBindingRedirects.cache
+C:\Users\IlyaK\Desktop\IronMan-FBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\IlyaK\Desktop\IronMan-FBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\IlyaK\Desktop\IronMan-FBird\FlappyBird\obj\Debug\IronMan.csproj.GenerateResource.cache
+C:\Users\IlyaK\Desktop\IronMan-FBird\FlappyBird\obj\Debug\IronMan.csproj.CoreCompileInputs.cache
+C:\Users\IlyaK\Desktop\IronMan-FBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\IlyaK\Desktop\IronMan-FBird\FlappyBird\obj\Debug\FlappyBird.pdb
